@@ -1,1 +1,1 @@
-# Journal-website
+# Journal
